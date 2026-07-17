@@ -1,1 +1,1 @@
-#Ethical Hacking JOurney
+#Ethical Hacking Journey
